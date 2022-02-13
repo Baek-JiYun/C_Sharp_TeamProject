@@ -1,0 +1,75 @@
+C:\Users\KB\C#\Project\Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\x86\tesseract41.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\x64\tesseract41.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\KB\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\KB\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\KB\C#\Project\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\Tesseract.dll
+C:\Users\KB\C#\Project\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.pdb
+C:\Users\KB\C#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\x86\tesseract41.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\x64\tesseract41.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Project.exe.config
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Project.exe
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Project.pdb
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Tesseract.dll
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.Form1.resources
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.exe
+C:\Users\cyzh8\Documents\카카오톡 받은 파일\Project_언어감지 (1)\Project\obj\Debug\Project.pdb
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\x86\tesseract41.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\x64\tesseract41.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Project.exe.config
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Project.exe
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Project.pdb
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Tesseract.dll
+C:\Users\user\source\repos\Project_기능추가최종\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.Form1.resources
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.exe
+C:\Users\user\source\repos\Project_기능추가최종\Project\obj\Debug\Project.pdb
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\x86\tesseract41.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\x64\tesseract41.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Project.exe.config
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Project.exe
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Project.pdb
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Tesseract.dll
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.Form1.resources
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.exe
+C:\Users\KB\Documents\카카오톡 받은 파일\Project_디자인추가\Project\obj\Debug\Project.pdb
