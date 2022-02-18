@@ -20,7 +20,7 @@
 
 <img src="img/main.png" width="540" height="330" >
 
-```
+```c#
 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
 
 //Header에 정보 추가
@@ -54,7 +54,7 @@ textBox2.Text = ret["message"]["result"]["translatedText"].ToString(); //message
 - 번역 되는 언어를 선택하지않아도 자동으로 감지합니다.
 <img src="img/auto.png" width="540" height="330" >
 
-```
+```c#
 string url2 = "https://openapi.naver.com/v1/papago/detectLangs";
 HttpWebRequest request2 = (HttpWebRequest)WebRequest.Create(url2);
 //Header에 정보 추가
@@ -93,7 +93,7 @@ return source;
 <img src="img/japWord.png" width="300" height="120">
 <img src="img/image.png" width="540" height="330">
 
-```
+```c#
  Bitmap bmp = new Bitmap(imgfile);
 pictureBox1.Image = bmp;
 
@@ -136,7 +136,7 @@ catch
 
 <img src="img/papagoLink.png" width="540" height="260">
 
-```
+```c#
 string source = "ko", target = "en";
 
 switch (comboBox1.Text)
