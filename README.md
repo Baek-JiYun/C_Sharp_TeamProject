@@ -1,20 +1,21 @@
-# 💡 C# 언어번역 프로그램
-- Visual Studio 2022에서 사용해 진행하였습니다.
+# 🌎 C# 언어번역 프로그램
+- <b>Language</b> : <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+- <b>Tool</b> : <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 - 네이버의 파파고 API를 활용하였습니다.
 - 이미지 인식을 위해 오픈 소스 OCR인 테서랙트 OCR엔진을 사용하였습니다.
 
 <br>
 
-# <제작기간 및 개발 인원>
+## 🔖 제작기간 및 개발 인원
 - 기간 : 2022.01 ~ 2022.01 (약 1주)
 - 인원 : 3명
 - 담당 역할 : Winform을 활용한 UI구현
 
 <br>
 
-## <주요 기능>
+## 🔖 주요 기능
 
-#### * 언어번역
+#### 🔸 언어번역
 - 번역기 API를 이용하여 입력된 텍스트를 전송합니다.
 - 번역된 텍스트를 JSON형식으로 받아와 프로그램에 출력됩니다.
 
@@ -86,7 +87,7 @@ string source = ret2["langCode"].ToString().Trim(); //message
 return source;
 ```
 
-#### 이미지 번역
+#### 🔸 이미지 번역
 - OCR엔진이 쉽게 인식하게하기 위해 이미지의 픽셀을 이진화하여 검은색과 흰색으로만 표현되는 이미지를 만들어줍니다.
 - 계산된 데이터를 result에 담아 정보를 추출하여 문자열을 텍스트박스에 담아줍니다.
 
@@ -131,7 +132,7 @@ catch
 }
 ```
 
-#### URL을 통한 번역내용 검색
+#### 🔸 URL을 통한 번역내용 검색
 - URL을 통해 번역할 언어, 번역될 언어, 번역할 텍스트를 전송하여 파파고에서 직접 단어 정보를 검색해 볼 수 있도록 구현하였습니다.
 
 <img src="img/papagoLink.png" width="540" height="260">
@@ -177,7 +178,7 @@ else
 }
 ```
 
-#### 디자인 
+#### 🔸 디자인 
 - 폰트 통일, 버튼 디자인, 오브젝트 재배치와 아이콘 삽입 등 
 - 화면을 새로 구성 제작한 폼 디자인으로 사용자의 편의와 가시성을 확대 시키는 방향으로 UI를 디자인 하였습니다.
 
