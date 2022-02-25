@@ -1,6 +1,5 @@
 # 🌎 C# 언어번역 프로그램
 - <b>Language</b> : <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-- <b>Framework</b> : <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
 - <b>Tool</b> : <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 - 네이버의 파파고 API를 활용하였습니다.
 - 이미지 인식을 위해 오픈 소스 OCR인 테서랙트 OCR엔진을 사용하였습니다.
